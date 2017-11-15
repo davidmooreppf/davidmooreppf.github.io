@@ -48,7 +48,7 @@ Include wireframes for all pages included in the site including:
 
 #### Desktop
 
-(Deploying image folder to GitHub, have eight sketches to link here)
+Deploying image folder to GitHub, have [six sketches](https://github.com/davidmooreppf/davidmooreppf.github.io/tree/master/Final_Project/New%20Folder%20With%20Items/AskThem_2018_wireframes) to link here
 
 #### Tablet
 
