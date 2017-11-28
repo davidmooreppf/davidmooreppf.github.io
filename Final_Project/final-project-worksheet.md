@@ -2,6 +2,15 @@
 
 New 2018 splash page for our non-profit's flagship site, [AskThem.io](http://www.askthem.io/). 
 
+## Task List (11-28-17)
+
+- page copy in markdown 
+- HTMl & CSS template to emulate & customize 
+- image elements from Dropbox 
+- email subscription solution (Mailchimp) 
+- social sharing tools 
+- JS elements
+
 ## Project Description
 
 AskThem - public dialogue with candidates for Congress and state government - a free & open-source (& open-data!) project of the 501(c)3 non-profit Participatory Politics Foundation
