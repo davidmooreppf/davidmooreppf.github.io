@@ -4,7 +4,7 @@ New 2018 splash page for our non-profit's flagship site, [AskThem.io](http://www
 
 ## Task List (11-28-17)
 
-- page copy in markdown 
+- page copy in [markdown](https://github.com/davidmooreppf/davidmooreppf.github.io/blob/master/Final_Project/index_splash.markdown)
 - HTMl & CSS template to emulate & customize - sample from [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page), on [CodePen](https://codepen.io/davidmooreppf/pen/wPYeQy)
 - existing AskThem image elements & design themes (e.g. background color) from Dropbox (to retrieve)
 - email subscription solution (Mailchimp) 
